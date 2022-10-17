@@ -8,5 +8,6 @@
 * ##### Note
 * ##### Homework
 > homework1 link: https://youtu.be/Fz1lhmCHT0w
+> homework2 link: https://youtu.be/H5FuZh92j_0
 * ##### Project
 
