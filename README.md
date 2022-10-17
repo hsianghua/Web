@@ -8,6 +8,6 @@
 * ##### Note
 * ##### Homework
 > homework1 link: https://youtu.be/Fz1lhmCHT0w  
-> homework2 link: https://youtu.be/H5FuZh92j_0
+> homework2 link:(檔案太大youtube擋掉） https://drive.google.com/file/d/10VlD4qe71K5GyM5aY2X4GT-97UsFxFPv/view?usp=sharing
 * ##### Project
 
