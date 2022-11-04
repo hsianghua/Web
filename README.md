@@ -8,8 +8,10 @@
 * ##### Note
 * ##### Homework
 > homework1 link: https://youtu.be/Fz1lhmCHT0w  
-> homework2 link:(檔案太大youtube擋掉） https://drive.google.com/file/d/10VlD4qe71K5GyM5aY2X4GT-97UsFxFPv/view?usp=sharing  
-> homework3 link:(檔案再次過大）https://drive.google.com/drive/folders/1WKNo7Ljh2omf71OrXcfuaAHuDx7VaEXJ?usp=share_link  
-> homework4 link:(不想再嘗試一次直接丟雲端）https://drive.google.com/drive/folders/19kBEab5UZSsblg66jbZYWSO70AF7uINW?usp=share_link
+以下作業都因檔案過大，故以雲端硬碟替代  
+> homework2 link: https://reurl.cc/OE0XxR  
+> homework3 link: https://reurl.cc/91rZgj  
+> homework4 link: https://reurl.cc/aa95pl  
+> homework5 link: https://reurl.cc/58ro7M  
 * ##### Project
 
